@@ -7,7 +7,7 @@ The hardware used is a [Waveshare JetBot](https://www.amazon.com/AI-Based-Wirele
 
 The batteries aren't included in the JetBot kit, but luckily there's a [junky flashlight](https://www.amazon.com/gp/product/B07SQLRMQH/) for sale that comes with six of exactly what's needed.
 
-The JetBot battery pack and jetson nano can be bolted to the shell, and any extra cables can be routed inside.
+The JetBot battery pack and jetson nano can be bolted to the shell, and any extra cables can be routed inside. The wheels and motors aren't necessary for this build.
 
 # Setup
 ### Set up the JetBot image
