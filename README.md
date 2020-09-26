@@ -5,7 +5,7 @@ The JetCam is a repurposed JetBot with a webcam that publishes it to ROS. This t
 
 The hardware used is a [Waveshare JetBot](https://www.amazon.com/AI-Based-Wireless-Bluetooth-Recognition-XYGStudy/dp/B07WMYGDWZ/) and a USB webcam ([this one works great](https://www.amazon.com/Logitech-C920S-Webcam-Privacy-Shutter/dp/B07K95WFWM/), but anything standard should do).
 
-The batteries aren't included in the JetBot kit, but luckily that's a [junky flashlight](https://www.amazon.com/gp/product/B07SQLRMQH/) for sale that comes with six of exactly what's needed.
+The batteries aren't included in the JetBot kit, but luckily there's a [junky flashlight](https://www.amazon.com/gp/product/B07SQLRMQH/) for sale that comes with six of exactly what's needed.
 
 The JetBot battery pack and jetson nano can be bolted to the shell, and any extra cables can be routed inside.
 
