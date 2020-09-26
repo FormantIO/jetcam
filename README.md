@@ -1,5 +1,5 @@
 # JetCam
-The JetCam is a repurposed JetBot with a webcam that publishes it to ROS. This turns out to be a simple package that can all be bought on amazon and set up quickly. It can be plugged in to the wall or operated on battery power.
+The JetCam is a repurposed JetBot with a webcam that publishes the camera feed to ROS. This turns out to be a simple package that can all be bought on amazon and set up quickly. It can be plugged in to the wall or operated on battery power.
 
 # Hardware
 
