@@ -1,0 +1,11 @@
+Description=Runs the jetcam services
+
+[Service]
+Type=simple
+User=jetbot
+ExecStart=/home/jetbot/jetcam/start.sh
+WorkingDirectory=/home/jetbot
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
