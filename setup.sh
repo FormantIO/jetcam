@@ -8,14 +8,15 @@ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main
 sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
 
 # install ROS
-sudo apt-get update
-sudo apt-get install ros-melodic-ros-base ros-melodic-tf ros-melodic-usb-cam
+sudo apt update
+sudo apt install -y ros-melodic-ros-base ros-melodic-tf ros-melodic-usb-cam
+sudo apt install -y ros-melodic-nmea-navsat-driver ros-melodic-diagnostic-updater
 
 # add ROS paths to environment
 sudo sh -c 'echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc'
 
 # install additional dependencies
-sudo apt install tmux
+sudo apt install -y tmux ntpdate
 
 # install the service
 sudo cp /home/jetbot/jetcam/jetcam.service /etc/systemd/system/jetcam.service

@@ -29,10 +29,14 @@ sudo jetcam/setup.sh
 
 [Jetson Nano Developer Kit](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/) | $99.00
 
+[Jetson Nano Expansion Board (LTE & GPS)](https://www.amazon.com/SIM7600G-H-Communication-Positioning-Applicable-XYGStudy/dp/B085SXS27V)
+
 [Geekworm T200 Power Management Shield](https://www.amazon.com/Geekworm-NVIDIA-Management-Expansion-Developer/dp/B07VNST1F8) | $48.69
 
 [Waveshare Wifi Module](https://www.amazon.com/Wireless-AC8265-Wireless-Developer-Support-Bluetooth/dp/B07SM4SPLV) | $23.57
 
 [Logitech C920e Webcam](https://www.amazon.com/Logitech-Webcam-Calling-Recording-Stereo/dp/B08DRQ66WP/) | $104.80
+
+[Garmin 18x GPS](https://www.amazon.com/Garmin-18x-USB-Navigator-Unit/dp/B0016O0G26/)
 
 [18650 Batteries](https://www.amazon.com/Authentic-3000mAh-18mmX65mm-Rechargeable-Flashlight/dp/B08CWLY5N5/) | $33.68
