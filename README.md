@@ -5,6 +5,7 @@ The JetCam is a repurposed JetBot with a webcam that publishes the camera feed t
 These parts can all be ordered from Amazon for about $340. Assembly is essentially obvious, but there's a video and enclosure design incoming.
 
 | Item | Price |
+|------|-------|
 | [Jetson Nano Developer Kit](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/) | $99.00 |
 | [Jetson Nano Expansion Board (LTE & GPS)](https://www.amazon.com/SIM7600G-H-Communication-Positioning-Applicable-XYGStudy/dp/B085SXS27V) | $88.55 |
 | [Geekworm T200 Power Management Shield](https://www.amazon.com/Geekworm-NVIDIA-Management-Expansion-Developer/dp/B07VNST1F8) | $48.69 |
