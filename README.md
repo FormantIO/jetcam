@@ -11,7 +11,7 @@ These parts can all be ordered from Amazon for about $340. Assembly is essential
 | [Geekworm T200 Power Management Shield](https://www.amazon.com/Geekworm-NVIDIA-Management-Expansion-Developer/dp/B07VNST1F8) | $48.69 |
 | [Waveshare Wifi Module](https://www.amazon.com/Wireless-AC8265-Wireless-Developer-Support-Bluetooth/dp/B07SM4SPLV) | $23.57 |
 | [Logitech C920e Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/) | $41.99 |
-| [18650 Batteries](https://www.amazon.com/Authentic-3000mAh-18mmX65mm-Rechargeable-Flashlight/dp/B08CWLY5N5/) | $33.68 |
+| [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $33.68 |
 
 # Setup
 ### Set up the JetBot image
