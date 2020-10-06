@@ -4,6 +4,14 @@ The JetCam is a repurposed JetBot with a webcam that publishes the camera feed t
 # Hardware
 These parts can all be ordered from Amazon for about $320. 
 
+### If you bought a JetBot already
+
+| Item | Price |
+|------|-------|
+| [Jetson Nano Expansion Board (LTE & GPS)](https://www.amazon.com/SIM7600G-H-Communication-Positioning-Applicable-XYGStudy/dp/B085SXS27V) | $88.55 |
+| [Logitech C920e Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/) | $41.99 |
+| [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $18.99 |
+
 ### From scratch
 
 | Item | Price |
@@ -16,14 +24,6 @@ These parts can all be ordered from Amazon for about $320.
 | [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $18.99 |
 
 Assembly is essentially obvious - just note that you have to add the jumper to the J48 pins for the barrel jack to power the Nano.
-
-### If you bought a JetBot already
-
-| Item | Price |
-|------|-------|
-| [Jetson Nano Expansion Board (LTE & GPS)](https://www.amazon.com/SIM7600G-H-Communication-Positioning-Applicable-XYGStudy/dp/B085SXS27V) | $88.55 |
-| [Logitech C920e Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/) | $41.99 |
-| [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $18.99 |
 
 # Setup
 ### Set up the JetBot image
