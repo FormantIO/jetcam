@@ -2,7 +2,17 @@
 The JetCam is a repurposed JetBot with a webcam that publishes the camera feed to ROS. This turns out to be a simple package that can all be bought on amazon and set up quickly. It can be plugged in to the wall or operated on battery power.
 
 # Hardware
-These parts can all be ordered from Amazon for about $340. Assembly is essentially obvious, but there's a video and enclosure design incoming.
+These parts can all be ordered from Amazon for about $320. 
+
+### If you bought a JetBot already
+
+| Item | Price |
+|------|-------|
+| [Jetson Nano Expansion Board (LTE & GPS)](https://www.amazon.com/SIM7600G-H-Communication-Positioning-Applicable-XYGStudy/dp/B085SXS27V) | $88.55 |
+| [Logitech C920e Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/) | $41.99 |
+| [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $18.99 |
+
+### From scratch
 
 | Item | Price |
 |------|-------|
@@ -11,7 +21,9 @@ These parts can all be ordered from Amazon for about $340. Assembly is essential
 | [Geekworm T200 Power Management Shield](https://www.amazon.com/Geekworm-NVIDIA-Management-Expansion-Developer/dp/B07VNST1F8) | $48.69 |
 | [Waveshare Wifi Module](https://www.amazon.com/Wireless-AC8265-Wireless-Developer-Support-Bluetooth/dp/B07SM4SPLV) | $23.57 |
 | [Logitech C920e Webcam](https://www.amazon.com/Logitech-C270-720pixels-Black-webcam/dp/B01BGBJ8Y0/) | $41.99 |
-| [18650 Batteries](https://www.amazon.com/Authentic-3000mAh-18mmX65mm-Rechargeable-Flashlight/dp/B08CWLY5N5/) | $33.68 |
+| [18650 Batteries (with free crappy flashlight)](https://www.amazon.com/Tactical-Flashlight-Rechargeable-Batteries-Resistant/dp/B07SQLRMQH/) | $18.99 |
+
+Assembly is essentially obvious - just note that you have to add the jumper to the J48 pins for the barrel jack to power the Nano.
 
 # Setup
 ### Set up the JetBot image
