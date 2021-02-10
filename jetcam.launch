@@ -4,14 +4,14 @@
         <param name="video_device" value="/dev/video0"/>
         <param name="image_width" value="640" />
         <param name="image_height" value="480" />
-        <param name="pixel_formant" value="yuyv" />
+        <!--<param name="pixel_formant" value="yuyv" />-->
         <param name="framerate" value="30" />
     </node>
 
     <!-- Launch GPS node -->
     <node name="nmea_serial_driver_node" pkg="nmea_navsat_driver" type="nmea_serial_driver" output="screen">
         <param name="port" value="/dev/ttyUSB1"/>
-        <param name="baud" value="4800" />
+        <param name="baud" value="9600" />
         <param name="frame_id" value="gps" />
         <param name="use_GNSS_time" value="False" />
         <param name="time_ref_source" value="gps" />
